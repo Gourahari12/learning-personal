@@ -1,0 +1,13 @@
+:root{
+    --color1:#3f0aff;
+    --color2:#f3680b;
+    --color3:#ffa600;
+    --textcolordark:#121212;
+    --formgradient:radial-gradient(circle, rgba(183,194,251,1) 0%, rgba(236,224,226,1) 100%);
+    --borderradius1:50px 0px 50px 0px;
+    --borderradius2:50px 50px 0px 0px;
+}
+.color1{color:var(--color1)}
+.color1bg{background-color: var(--color1);}
+.baroderradisu{border-radius: var(--borderradius);}
+.baroderradisu2{border-radius: var(--borderradius2);}

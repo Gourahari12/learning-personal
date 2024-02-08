@@ -1,0 +1,10 @@
+:root{
+    --color1:#ff4f0a;
+    --color2:#f3680b;
+    --color3:#ffa600;
+    --textcolordark:#02005e;
+    --formgradient:radial-gradient(circle, rgba(183,194,251,1) 0%, rgba(236,224,226,1) 100%);
+}
+.color1{color:var(--color1)}
+.color1bg{background-color: var(--color1);}
+.baroderradisu{border-radius: var(--borderradius);}
